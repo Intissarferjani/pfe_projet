@@ -25,9 +25,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/ferja/OneDrive/Bureau/PFEWEB/APPWEB/src/assets/startbootstrap-shop-homepage-gh-pages/startbootstrap-shop-homepage-gh-pages/css/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/ferja/OneDrive/Bureau/PFEWEB/APPWEB/src/assets/startbootstrap-shop-homepage-gh-pages/startbootstrap-shop-homepage-gh-pages/js/scripts.js"
+
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "834b4655-43cb-4d7b-ae59-79f8b0c01f27"
   }
 }
